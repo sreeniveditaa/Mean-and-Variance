@@ -1,4 +1,4 @@
-# DATE : 
+# DATE : 06/10/2023
 
 # EXP NO 1 : Mean and variance of a discrete  distribution
 
